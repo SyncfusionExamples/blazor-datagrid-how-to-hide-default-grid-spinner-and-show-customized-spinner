@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to hide the default loading spinner displayed by the Syncfusion Blazor DataGrid and replace it with a customized loading indicator. The implementation focuses on controlling the loading experience during DataGrid operations by displaying a custom spinner instead of the built-in loading animation. This approach is useful when applications require branded loading indicators, customized animations, or a consistent user experience across multiple components. The sample provides a practical implementation for managing loading states while preserving the built-in functionality of the Syncfusion Blazor DataGrid.
+This sample demonstrates how to hide the default loading spinner displayed by the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) and replace it with a customized loading indicator. The implementation focuses on controlling the loading experience during DataGrid operations by displaying a custom spinner instead of the built-in loading animation. This approach is useful when applications require branded loading indicators, customized animations, or a consistent user experience across multiple components. The sample provides a practical implementation for managing loading states while preserving the built-in functionality of the Syncfusion Blazor DataGrid.
 
 ## Key Features
 
